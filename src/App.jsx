@@ -270,7 +270,7 @@ export default function WhiteDomainPortfolio() {
               </p>
               <div className="mt-9 flex flex-col gap-4 sm:flex-row">
                 <a
-                  href="mailto:werowix@outlook.com?subject=Domain%20Portfolio%20Offer"
+                  href="mailto:hackclaw@icloud.com?subject=Domain%20Portfolio%20Offer"
                   className="group inline-flex items-center justify-center gap-3 bg-slate-950 px-7 py-4 text-sm font-bold uppercase tracking-[0.22em] text-white shadow-[0_0_32px_rgba(15,23,42,.18)] transition hover:bg-sky-500"
                 >
                   Make Portfolio Offer
@@ -374,7 +374,7 @@ export default function WhiteDomainPortfolio() {
                       <div className="mt-8 flex items-center justify-between border-t border-slate-200 pt-5">
                         <span className="mono-font text-xs uppercase tracking-[0.24em] text-slate-500">{domain.price}</span>
                         <a
-                          href={`mailto:werowix@outlook.com?subject=Offer%20for%20${encodeURIComponent(domain.name)}`}
+                          href={`mailto:hackclaw@icloud.com?subject=Offer%20for%20${encodeURIComponent(domain.name)}`}
                           className="group/btn inline-flex items-center gap-2 bg-slate-950 px-4 py-3 text-xs font-bold uppercase tracking-[0.18em] text-white transition hover:bg-sky-500"
                         >
                           Bid
