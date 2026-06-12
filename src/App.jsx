@@ -76,6 +76,14 @@ const domains = [
     intensity: 84,
   },
   {
+  name: "HCKCL.COM",
+  tag: "Cybersecurity / Elite Tech Brand",
+  signal: "Ultra-short, high-intensity brand with hacker DNA. Built for offensive security firms, red-team platforms, exploit research, AI security products, or next-generation cyber infrastructure.",
+  icon: Shield,
+  price: "Make Offer",
+  intensity: 95,
+  },
+  {
     name: "NH26.COM",
     tag: "Ultra-short / Numeric Asset",
     signal: "A rare four-character asset suited for a holding company, product code, or premium redirect.",
