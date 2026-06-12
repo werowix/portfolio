@@ -374,7 +374,7 @@ export default function WhiteDomainPortfolio() {
                       <div className="mt-8 flex items-center justify-between border-t border-slate-200 pt-5">
                         <span className="mono-font text-xs uppercase tracking-[0.24em] text-slate-500">{domain.price}</span>
                         <a
-                          href={`https://www.nameclub.com/domain/${encodeURIComponent(domain.name)}`}
+                          href={`https://www.namepros.com/parked/${encodeURIComponent(domain.name)}`}
                           className="group/btn inline-flex items-center gap-2 bg-slate-950 px-4 py-3 text-xs font-bold uppercase tracking-[0.18em] text-white transition hover:bg-sky-500"
                         >
                           Bid
